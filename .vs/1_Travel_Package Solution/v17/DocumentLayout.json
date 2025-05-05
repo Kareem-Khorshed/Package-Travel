@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|d:\\0.0.0.0_depi\\0.0_freelancing job- $$\\1_first gig\\1_travel_package\\1_travel_package solution\\1_travel_package\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|solutionrelative:1_travel_package\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|d:\\0.0.0.0_depi\\0.0_freelancing job- $$\\1_first gig\\1_travel_package\\1_travel_package solution\\1_travel_package\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|solutionrelative:1_travel_package\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|d:\\0.0.0.0_depi\\0.0_freelancing job- $$\\1_first gig\\1_travel_package\\1_travel_package solution\\1_travel_package\\models\\travelpackageinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|solutionrelative:1_travel_package\\models\\travelpackageinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|d:\\0.0.0.0_depi\\0.0_freelancing job- $$\\1_first gig\\1_travel_package\\1_travel_package solution\\1_travel_package\\models\\travelpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|solutionrelative:1_travel_package\\models\\travelpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|d:\\0.0.0.0_depi\\0.0_freelancing job- $$\\1_first gig\\1_travel_package\\1_travel_package solution\\1_travel_package\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|solutionrelative:1_travel_package\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|d:\\0.0.0.0_depi\\0.0_freelancing job- $$\\1_first gig\\1_travel_package\\1_travel_package solution\\1_travel_package\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|solutionrelative:1_travel_package\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|d:\\0.0.0.0_depi\\0.0_freelancing job- $$\\1_first gig\\1_travel_package\\1_travel_package solution\\1_travel_package\\1_travel_package.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2F514FB1-BFF9-47C9-BAA1-18830905ED2E}|1_Travel_Package\\1_Travel_Package.csproj|solutionrelative:1_travel_package\\1_travel_package.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Startup.cs",
+              "RelativeDocumentMoniker": "1_Travel_Package\\Startup.cs",
+              "ToolTip": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Startup.cs",
+              "RelativeToolTip": "1_Travel_Package\\Startup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:56:21.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\appsettings.json",
+              "RelativeDocumentMoniker": "1_Travel_Package\\appsettings.json",
+              "ToolTip": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\appsettings.json",
+              "RelativeToolTip": "1_Travel_Package\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T12:55:58.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PackagesController.cs",
+              "DocumentMoniker": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Controllers\\PackagesController.cs",
+              "RelativeDocumentMoniker": "1_Travel_Package\\Controllers\\PackagesController.cs",
+              "ToolTip": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Controllers\\PackagesController.cs",
+              "RelativeToolTip": "1_Travel_Package\\Controllers\\PackagesController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:54:55.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TravelPackageInput.cs",
+              "DocumentMoniker": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Models\\TravelPackageInput.cs",
+              "RelativeDocumentMoniker": "1_Travel_Package\\Models\\TravelPackageInput.cs",
+              "ToolTip": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Models\\TravelPackageInput.cs",
+              "RelativeToolTip": "1_Travel_Package\\Models\\TravelPackageInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:07:03.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TravelPackage.cs",
+              "DocumentMoniker": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Models\\TravelPackage.cs",
+              "RelativeDocumentMoniker": "1_Travel_Package\\Models\\TravelPackage.cs",
+              "ToolTip": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Models\\TravelPackage.cs",
+              "RelativeToolTip": "1_Travel_Package\\Models\\TravelPackage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:01:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Program.cs",
+              "RelativeDocumentMoniker": "1_Travel_Package\\Program.cs",
+              "ToolTip": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\Program.cs",
+              "RelativeToolTip": "1_Travel_Package\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:56:35.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1_Travel_Package",
+              "DocumentMoniker": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\1_Travel_Package.csproj",
+              "RelativeDocumentMoniker": "1_Travel_Package\\1_Travel_Package.csproj",
+              "ToolTip": "D:\\0.0.0.0_DEPI\\0.0_Freelancing Job- $$\\1_First Gig\\1_Travel_Package\\1_Travel_Package Solution\\1_Travel_Package\\1_Travel_Package.csproj",
+              "RelativeToolTip": "1_Travel_Package\\1_Travel_Package.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T20:55:28.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

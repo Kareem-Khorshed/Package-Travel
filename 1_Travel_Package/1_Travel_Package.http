@@ -1,0 +1,6 @@
+@_1_Travel_Package_HostAddress = http://localhost:5211
+
+GET {{_1_Travel_Package_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
