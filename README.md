@@ -47,4 +47,4 @@ This is a simple ASP.NET Core Web API that provides full CRUD operations and a s
 ## 📌 Notes
 ✅ It uses in-memory storage for data, meaning all data is temporarily stored during runtime.
 
-✅ The codebase is clean and modular, making it easy to extend or connect to a real database in the future.
+✅ The codebase is clean and modular, making it easy to extend or connect to a real customized database in the future.
